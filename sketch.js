@@ -29,7 +29,7 @@ function preload(){
   obstacle6 = loadImage("obstacle6.png");
   
   gameOverimg = loadImage("gameOver.png");
-  restart = loadImage("restart.png");
+  restartimg = loadImage("restart.png");
 }
 function setup() {
   createCanvas(600, 200);
